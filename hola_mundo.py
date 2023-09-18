@@ -3,4 +3,4 @@
 #Licence GNU/GPL
 #First program
 
-print("Hola, mundo")
+print("Hola, mundo 2!")
